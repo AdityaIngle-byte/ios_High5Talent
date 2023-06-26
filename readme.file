@@ -1,0 +1,26 @@
+// react-native-modal rn-fetch-blob react-native-formik @react-native-community/viewpager
+// @react-native-firebase/app @react-native-firebase/auth @react-native-google-signin/google-signin react-native-push-notification
+// yarn add react-native-twilio-video-webrtc": "https://github.com/blackuy/react-native-twilio-video-webrtc",
+// yarn add react-native-video react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera.git",
+// react-native-localize
+
+//INTSALLED LIBRARIES    
+
+yarn add @react-native-community/art react-native-collapsible react-native-countdown-component react-native-pie
+yarn add @react-native-community/async-storage @react-native-community/netinfo
+yarn add @react-native-community/datetimepicker react-native-modal-datetime-picker
+yarn add @react-navigation/bottom-tabs @react-navigation/drawer @react-navigation/native @react-navigation/stack react-native-tab-view 
+yarn add @react-native-community/masked-view react-native-animatable react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-screens 
+yarn add axios formik libphonenumber-js  yup
+yarn add react-native-device-info react-native-permissions
+yarn add react-native-document-picker react-native-file-viewer react-native-fs react-native-html-to-pdf react-native-image-picker react-native-pdf
+yarn add react-native-elements react-native-vector-icons
+yarn add react-native-inappbrowser-reborn react-native-webview
+yarn add react-native-maps @react-native-community/geolocation
+yarn add react-native-share react-native-toast-message
+yarn add react-redux redux redux-logger redux-thunk
+    
+    
+    
+    
+    
